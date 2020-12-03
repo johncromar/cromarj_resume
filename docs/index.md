@@ -4,6 +4,7 @@ title: John Cromar's Resume
 ---
 # John Cromar
 Bachelor's of Science in Data Science at BYU-I
+You are a stud
 
 <div id="webaddress">
 <a href="johncromar@yahoo.com">johncromar@yahoo.com</a>
