@@ -6,37 +6,35 @@ title: John Cromar's Resume
 Bachelor's of Science in Data Science at BYU-I
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="johncromar@yahoo.com">johncromar@yahoo.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/john-cromar-656ba316a/">LinkedIn</a>
+| <a href="https://github.com/johncromar/cromarj_resume">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2017-2020`
 __Brigham Young University - Idaho__, Rexburg, ID
+_Bachelor of Science in Data Science_
+- 3.91 GPA
 
-- 4.0 Major GPA
 
+## Professional Experience
 
-## Related Experience
+`January 2020 - August 2020`
+__Melaleuca Inc.__,  Idaho Falls, ID
+__Digital Marketing Analyst__, Intern - Full-time
 
-### Internships
+- Used R, SQL, Python, and Power BI to pull, clean, and visualize data, create reports and dashboards, and implement machine learning
+models.
+- Became Google Analytic certified and used website metrics to optimize web pages & create E-commerce reports.
+- Provided actionable insight for how the company can market their
+products and improve their website.
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+###########################################
 
 ### Data Science Lead
 
