@@ -21,7 +21,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 _Bachelor of Science in Data Science_
 - 3.91 GPA
 
-
 ## Professional Experience
 
 `Aug 2020 - Current`
