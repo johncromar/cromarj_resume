@@ -24,9 +24,17 @@ _Bachelor of Science in Data Science_
 
 ## Professional Experience
 
+`Aug 2020 - Current`
+__WPA Intelligence__, Washington D.C.
+__Data Science Intern__, Full-time
+
+- Built modeling and polling samples for political campaigns to survey people with
+- Utilized tools such as R and SQL to pull, clean, and deliver data files and counts
+- Helped a candidate running for The House of Representatives win their congressional district
+
 `January 2020 - August 2020`
-__Melaleuca Inc.__,  Idaho Falls, ID
-__Digital Marketing Analyst__, Intern - Full-time
+__Melaleuca Inc.__, Idaho Falls, ID
+__Digital Marketing Analyst Intern__, Full-time
 
 - Used R, SQL, Python, and Power BI to pull, clean, and visualize data, create reports and dashboards, and implement machine learning
 models.
@@ -34,54 +42,34 @@ models.
 - Provided actionable insight for how the company can market their
 products and improve their website.
 
-###########################################
+`Jun 2019 - Jan 2020`
+__Brigham Young University - Idaho__, Rexburg, ID
+__Data Analyst__, Part-time
+Analyzed data from the school concerning students, faculty, administration, and departments.
+- Converted Tableau dashboards into interactive R shiny apps for the
+career center to make insightful decisions.
+- Saved the school hundreds of man hours by automating data collection
+processes and generating automated reports.
 
-### Data Science Lead
+## Projects
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+`Sep 2019 - Jan 2020`
+__Merit Medical Systems Inc.__, South Jordan, UT
+__Data Consultant__, Part-time
+- Found the baseline for three of the companies main utilities: water, gas,
+and electricity.
+- Created a R package called Rbills to scrape all the utility bills from PDFs
+and created an R shiny dashboard for a report.
+- Saved the company $20k a year by removing hundreds of man hours
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+`Aug 2015 - Aug 2017`
+__Service Missionary__, Anaheim, CA
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: 12/11/2020 -->
 
 
